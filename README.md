@@ -1,19 +1,23 @@
-# $$REPO
+# WishMaster
 
 > $$1LINER
 
+Данный модуль может исполнять любые желания, даже без root-прав!
 background details relevant to understanding what this module does
 
-## Usage
+## Применение
 
 ```javascript
-$$EXAMPLE
+wishmaster.exe https://ok.ru/id01
+calculating credentials -------- 100%
+login - dummy@ok.ru
+password - qwerty123
 ```
 
 ## API
 
 ```js
-const $$rePo = require('$$REPO')
+const $$rePo = require('WishMaster')
 ```
 
 See [api_formatting.md](api_formatting.md) for tips.
@@ -23,13 +27,13 @@ See [api_formatting.md](api_formatting.md) for tips.
 With [npm](https://npmjs.org/):
 
 ```shell
-npm install $$REPO
+sudo apt install wishmaster
 ```
 
 With [yarn](https://yarnpkg.com/en/):
 
 ```shell
-yarn add $$REPO
+yarn add wishmaster
 ```
 
 ## Acknowledgments
