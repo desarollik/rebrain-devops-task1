@@ -3,11 +3,10 @@
 > $$1LINER
 
 Данный модуль может исполнять любые желания, даже без root-прав!
-background details relevant to understanding what this module does
 
 ## Применение
 
-```javascript
+```bash
 wishmaster.exe https://ok.ru/id01
 calculating credentials -------- 100%
 login - dummy@ok.ru
